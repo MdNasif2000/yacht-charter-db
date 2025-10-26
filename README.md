@@ -22,34 +22,34 @@ yacht-charter-db/
 │     └─ combined_cleaned.xlsx                                                                                                                                                                                                                                                
 │     └─ customers_cleaned.xlsx                                                                                                                                                                                                                                            
 │     └─ ports_cleaned.xlsx                                                                                                                                                                                                                                                
-│     └─ visits_cleaned.xlsx
-│     └─ yachts_cleaned.xlsx
-│
-├─ diagrams/
-│  └─ er_diagram.png
-|
-├─ docs/
-│  └─ screenshots/            
-│     └─ [screenshots of output]
-│  └─ justification_and_explanation.pdf            
-│  └─ project_brief.pdf
-│
-├─ notebooks/
-│  ├─ business_queries.html
-│  └─ business_queries.ipynb
-|
-├─ sql/
-│  └─ schema_and_seed.sql
-│
-├─ docs/
-│  └─ screenshots/            
-│     └─ [screenshots of output]
-│  └─ justification_and_explanation.pdf            
-│  └─ project_brief.pdf
-│
-├─ .gitignore  
-├─ LICENSE
-├─ README.md
+│     └─ visits_cleaned.xlsx                                                                                                                                                                                                                                                
+│     └─ yachts_cleaned.xlsx                                                                                                                                                                                                                                                
+│                                                                                                                                                                                                                                                                            
+├─ diagrams/                                                                                                                                                                                                                                                                
+│  └─ er_diagram.png                                                                                                                                                                                                                                                        
+|                                                                                                                                                                                                                                                                            
+├─ docs/                                                                                                                                                                                                                                                                    
+│  └─ screenshots/                                                                                                                                                                                                                                                        
+│     └─ [screenshots of output]                                                                                                                                                                                                                                            
+│  └─ justification_and_explanation.pdf                                                                                                                                                                                                                                    
+│  └─ project_brief.pdf                                                                                                                                                                                                                                                    
+│                                                                                                                                                                                                                                                                            
+├─ notebooks/                                                                                                                                                                                                                                                                
+│  ├─ business_queries.html                                                                                                                                                                                                                                                
+│  └─ business_queries.ipynb                                                                                                                                                                                                                                                
+|                                                                                                                                                                                                                                                                            
+├─ sql/                                                                                                                                                                                                                                                                    
+│  └─ schema_and_seed.sql                                                                                                                                                                                                                                                    
+│                                                                                                                                                                                                                                                                            
+├─ docs/                                                                                                                                                                                                                                                                    
+│  └─ screenshots/                                                                                                                                                                                                                                                            
+│     └─ [screenshots of output]                                                                                                                                                                                                                                            
+│  └─ justification_and_explanation.pdf                                                                                                                                                                                                                                    
+│  └─ project_brief.pdf                                                                                                                                                                                                                                                    
+│                                                                                                                                                                                                                                                                            
+├─ .gitignore                                                                                                                                                                                                                                                              
+├─ LICENSE                                                                                                                                                                                                                                                                    
+├─ README.md                                                                                                                                                                                                                                                                  
 
 ## Technologies Used
 - **Database:** MySQL 8.0+
