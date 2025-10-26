@@ -12,16 +12,16 @@ A web/database system design and implementation for a yacht charter company. The
 
 ## Repo structure
 
-yacht-charter-db/
-│
-├─ data/
-│  ├─ raw/
-│  │  └─ YachtCharterData.xlsx
-│  ├─ cleaned/
-│     └─ charters_cleaned.xlsx
-│     └─ combined_cleaned.xlsx
-│     └─ customers_cleaned.xlsx
-│     └─ ports_cleaned.xlsx
+yacht-charter-db/                                                                                                                                                                                                                                                             
+│                                                                                                                                                                                                                                                                             
+├─ data/                                                                                                                                                                                                                                                                     
+│  ├─ raw/                                                                                                                                                                                                                                                                    
+│  │  └─ YachtCharterData.xlsx                                                                                                                                                                                                                                                
+│  ├─ cleaned/                                                                                                                                                                                                                                                                
+│     └─ charters_cleaned.xlsx                                                                                                                                                                                                                                                
+│     └─ combined_cleaned.xlsx                                                                                                                                                                                                                                                
+│     └─ customers_cleaned.xlsx                                                                                                                                                                                                                                            
+│     └─ ports_cleaned.xlsx                                                                                                                                                                                                                                                
 │     └─ visits_cleaned.xlsx
 │     └─ yachts_cleaned.xlsx
 │
