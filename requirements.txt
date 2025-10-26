@@ -1,0 +1,9 @@
+Requirements:
+
+To run this database project locally, ensure you have:
+
+- MySQL Server: version 8.0 or higher
+- MySQL Client: command-line client or GUI tool (e.g., MySQL Workbench, DBeaver)
+- Operating System: Windows, macOS, or Linux
+- Disk Space: at least 100MB for schema and seed data
+- Permissions: ability to create databases and run `SOURCE` commands
